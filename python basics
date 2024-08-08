@@ -1,0 +1,101 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPpHDtiV6aj2Z816Nz6R9NT",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Gagandeep981/Gagandeep981/blob/main/python%20basics\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "YnrUxe6N4uFr"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# dictionary\n",
+        "add 10 students and their names , scores"
+      ],
+      "metadata": {
+        "id": "ud3AwRVO4uqP"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "students_scores = {}\n",
+        "students_scores [\"a\"] =75\n",
+        "students_scores [\"b\"] =80\n",
+        "students_scores [\"c\"] =85\n",
+        "students_scores [\"d\"] =90\n",
+        "students_scores [\"e\"] =95\n",
+        "students_scores [\"f\"] =70\n",
+        "students_scores [\"g\"] =65\n",
+        "students_scores [\"h\"] =60\n",
+        "students_scores [\"i\"] =55\n",
+        "students_scores [\"j\"] =50\n",
+        "print(students_scores)\n",
+        "#calculate the average of scores\n",
+        "print (sum(students_scores .values())/len(students_scores))\n",
+        "#display the average\n",
+        "print (\"average test scores:\",sum(students_scores.values())/len(students_scores))\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "8D38sgDK45bA",
+        "outputId": "78eea34a-2d89-4cab-8fa9-0c1897b2dd2e"
+      },
+      "execution_count": 16,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "{'a': 75, 'b': 80, 'c': 85, 'd': 90, 'e': 95, 'f': 70, 'g': 65, 'h': 60, 'i': 55, 'j': 50}\n",
+            "72.5\n",
+            "average test scores: 72.5\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "WWxjNyYd8Z1W"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
