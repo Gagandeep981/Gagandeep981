@@ -1,7 +1,8 @@
 ![image](https://github.com/user-attachments/assets/b1d02c17-db45-4e09-a7ab-2d606bed7fe2)
 
 # 💫 About Me:
-- 👋 Hi, I’m @Gagandeep981<br>- 👀 I’m interested in playing volleyball<br>- 🌱 I’m currently learning to code<br>-🙇‍♂️ Never trust anyone completely but God
+- 👋 Hi, I’m @Gagandeep981<br>- 👀 I’m interested in playing volleyball<br>- 🌱 I’m currently learning to code<br> -📈Bachelor of Science in Computer Science (Ongoing)
+- -🙇‍♂️ Never trust anyone completely but God
 
 
 # 💻 Tech Stack:
